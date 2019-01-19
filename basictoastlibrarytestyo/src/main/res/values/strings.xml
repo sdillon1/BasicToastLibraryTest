@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicToastLibraryTestYo</string>
+    <string name="string_1">BasicToastLibraryTestYo %1$s</string>
+</resources>
